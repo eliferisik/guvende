@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700435426259",
+    "project_id": "guvende-8d20e",
+    "storage_bucket": "guvende-8d20e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700435426259:android:d69f2f50d66f802d555d26",
+        "android_client_info": {
+          "package_name": "com.example.guvende"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8HokUFVoTNhBc_ghBUa9QEncaJLmAvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

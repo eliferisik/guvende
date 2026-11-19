@@ -1,0 +1,48 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/**/key.properties
+android/**/*.keystore
+android/**/*.jks
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+
+# Generated files
+*.freezed.dart
+*.g.dart
+
+# Backup files
+*.backup*
+*.bak
+*.old
+*.tmp
+*.codex-backup
+*.disk-conflict*
+*.editor-buffer*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+service-account*.json
+*serviceAccount*.json
+flutter_native_integration.env
+firebase_app_id_file.json
